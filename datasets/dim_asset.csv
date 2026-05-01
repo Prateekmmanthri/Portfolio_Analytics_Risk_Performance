@@ -1,0 +1,13 @@
+asset_id,ticker,asset_name,asset_class,sector
+1,AAPL,Apple Inc.,Equity,Technology
+2,MSFT,Microsoft Corp.,Equity,Technology
+3,NVDA,Nvidia Corp.,Equity,Technology
+4,JPM,JPMorgan Chase & Co.,Equity,Financials
+5,XOM,Exxon Mobil Corp.,Equity,Energy
+6,GLD,SPDR Gold Shares,Commodity,Gold
+7,TLT,iShares 20+ Year Treasury Bond ETF,Bond,Treasury
+8,SPY,SPDR S&P 500 ETF Trust,Benchmark,Market Index
+9,AMZN,Amazon.com Inc.,Equity,Consumer Discretionary
+10,GOOGL,Alphabet Inc.,Equity,Communication Services
+11,META,Meta Platforms Inc.,Equity,Communication Services
+12,TSLA,Tesla Inc.,Equity,Consumer Discretionary
